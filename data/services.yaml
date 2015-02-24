@@ -1,6 +1,6 @@
 Yacuna:
   label: Yacuna
-  countries: [AE, AF, AG, AI, AL, AM, AN, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG BH, BI, BJ, BL, BM, BN, BO, BR, BS, BT, BV, BW, BY, CC, CD, CF, CG, CH, CI, CK, CL CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DO, DJ, DK, DM, DZ, EC, EE, EG, EH, ER, ES, ET, FI FJ, FK, FM, FO, FR, GA, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY HK, HM, HN, HR, HT, HU, ID, IE, IN, IL, IM, IO, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UK, UM, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW] 
+  countries: [AE, AF, AG, AI, AL, AM, AN, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG BH,BI, BJ, BL, BM, BN, BO, BR, BS, BT, BV, BW, BY, CC, CD, CF, CG, CH, CI, CK, CL CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DO, DJ, DK, DM, DZ, EC, EE, EG, EH, ER, ES, ET, FI FJ, FK, FM, FO, FR, GA, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY HK, HM, HN, HR, HT, HU, ID, IE, IN, IL, IM, IO, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UK, UM, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW] 
   icon: https://yacuna.com/favicon.ico
   url: https://Yacuna.com
   content: London based, FCA-regulated cryptocurrency exchange. Buy, sell and trade Bitcoin, Litecoin and Dogecoin for Euro and Pound. Instant deposits via Sofort Banking available.
@@ -534,16 +534,6 @@ coinjarfiller:
       <p>CoinJar Filler™ aims to be the best and cheapest way to buy and sell Bitcoin. We charge only 2% for buying and 1.1% for selling. Get Bitcoin in your wallet or cash in your bank account quickly.</p>
   coins: [btc]
 
-bitxoin:
-  label: bitXoin
-  icon: /favicon.png
-  location: [au]
-  countries: [au]
-  url: https://www.bitXoin.com
-  content: |
-      <p>Using bitXoin makes buying bitcoins using cash as easy as 1 - 2 - 3. Forget long wait-times and non-responsive transacting by using our easy to use brokerage platform, and making cash deposits over the counter.</p>
-  coins: [btc]
-
 bittylicious:
   label: Bittylicious
   icon: /favicon.png
@@ -663,14 +653,6 @@ bbbitcoins:
       <p>Buy and sell bitcoins in Brazil.</p>
   coins: [btc]
 
-btradeaustralia:
-  label: Bit Trade Australia
-  countries: [au]
-  location: [au]
-  icon: /favicon.png
-  url: https://www.btradeaustralia.com/
-  content: Australian exchange.
-  coins: [btc]
 
 forepost:
   label: Forepost
@@ -1033,14 +1015,6 @@ giftcarddrainer:
   content: GiftCard Drainer provides a way to buy Bitcoins quickly. Submit a Visa, MasterCard, American Express or Discover gift card and receive payment in Bitcoins immediately or within 24 hours.
   coins: [btc]
 
-quickbtaustralia:
-  countries: [au]
-  location: [au]
-  icon: https://quickbt.com/favicon.ico
-  label: QuickBT
-  url: https://quickbt.com/
-  content: Instant Bitcoin purchase/payment using your POLi enabled bank account.</p>
-  coins: [btc]
 
 bitcointrust:
   countries: [us]
@@ -1635,7 +1609,7 @@ BuyABitcoincomau:
   location: [au]
   icon: https://buyabitcoin.com.au/wp-content/uploads/2014/07/favicon.png
   url: https://www.buyabitcoin.com.au/
-  content:  BuyABitcoin.com.au helps Australians purchase Bitcoin easily and quickly online. 
+  content:  No GST. BuyABitcoin.com.au helps Australians purchase Bitcoin easily and quickly online. 
   coins: [btc]
 
 CashCoin:
@@ -1835,14 +1809,6 @@ coinmotion:
   location: [fi]
   url: http://coinmotion.com/
   content: Secure and easy way to buy, store and use bitcoin.  Familiar payment options and instant trades. Get your bitcoins in minutes!
-  coins: [btc]
-  
-shopwithbitcoin:
-  label: Shop With Bitcoin
-  countries: [au]
-  location: [au]
-  url: http://shopwithbitcoin.com.au/
-  content: English
   coins: [btc]
 
 bitcoinvietnam:
